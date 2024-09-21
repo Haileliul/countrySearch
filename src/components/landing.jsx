@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import WorldMap from "react-world-map";
 import Images from "../assets/images"; // Ensure this correctly imports the image paths
 
 const Landing = () => {
