@@ -77,4 +77,5 @@ To run this project locally, follow these steps:
 Once the application is running, you can navigate through the app and interact with its features. Briefly describe how to use the main features of the  application.
 
 - **Screen Shoots:**
-  ![Home Page](I1.png)
+  ![Home Page](https://github.com/Haileliul/countrySearch/blob/main/screenshoots/I1.png)
+  ![search Page](https://github.com/Haileliul/countrySearch/blob/main/screenshoots/I2.png)
