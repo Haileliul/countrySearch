@@ -31,7 +31,7 @@ https://countrysearch-xilj.onrender.com/
 - **Backend:**
   - used free  api bellwo 
   ```bash
-  [https://countrysearch-xilj.onrender.com/](https://restcountries.com/v3.1/all)
+    https://restcountries.com/v3.1/all
   ```
 
 - **Styling:**
