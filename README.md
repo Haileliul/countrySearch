@@ -42,18 +42,6 @@ https://countrysearch-xilj.onrender.com/
 - **Deployment:**
   - **Render (for front end)**
 
-## Demo
-
-View the live demo [here](your-live-demo-link).
-
-## Technologies Used
-
-- React.js
-- Redux (if applicable)
-- Axios (for API calls)
-- CSS Modules / Styled Components (or whichever styling solution you used)
-- Other libraries and frameworks
-
 ## Installation
 
 To run this project locally, follow these steps:
