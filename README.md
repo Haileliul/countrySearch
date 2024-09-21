@@ -42,5 +42,51 @@ https://countrysearch-xilj.onrender.com/
 - **Deployment:**
   - **Render (for front end)**
 
+## Demo
+
+View the live demo [here](your-live-demo-link).
+
+## Technologies Used
+
+- React.js
+- Redux (if applicable)
+- Axios (for API calls)
+- CSS Modules / Styled Components (or whichever styling solution you used)
+- Other libraries and frameworks
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Haileliul/countrySearch.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd countrySearch
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev 
+   ```
+
+5. Open your browser and visit `http://localhost:5173/`.
+
+## Usage
+
+Once the application is running, you can navigate through the app and interact with its features. Briefly describe how to use the main features of the  application.
 
 - **Screen Shoots:**
+  ![Home Page](I1.png)
